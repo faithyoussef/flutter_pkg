@@ -2,7 +2,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutter_pkg/flutter_pkg.dart';
+import 'package:simplebutton_pkg/simplebutton_pkg.dart';
  late String text;
 void main() {
   test('adds one to input values', () {
