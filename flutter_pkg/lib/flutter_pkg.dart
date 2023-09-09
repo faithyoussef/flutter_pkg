@@ -1,4 +1,4 @@
-library flutter_pkg;
+library  simplebutton_pkg;
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
