@@ -2,7 +2,7 @@ name: simplebutton_pkg
 description: A button that you can customize as you like easy or hard done.
 version: 0.0.1
 homepage: 
-repository: /home/runner/work/flutter_pkg/flutter_pkg
+repository: /home/runner/work/flutter_pkg/simplebutton_pkg
 
 
 environment:
