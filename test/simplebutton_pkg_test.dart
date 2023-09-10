@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutter_pkg/lib/main.dart';
+import 'package:flutter_pkg/main.dart';
  late String text;
 void main() {
   test('adds one to input values', () {
